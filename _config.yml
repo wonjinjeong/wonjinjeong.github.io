@@ -1,7 +1,7 @@
 
 # Site settings
 
-url: "https://le4ker.me"
+url: "https://wonjinjeong.github.io"
 
 environment: prod
 
@@ -46,7 +46,7 @@ keywords: "open source, avr code, circuit of electric, c, c++"
 
 black-favicon: "/img/key.png"
 background-img: ""
-me-img: "/img/wonjin.jpg"
+me-img: "/img/me.jpg"
 
 ##############################
 # Color the browser elements #
@@ -66,7 +66,7 @@ type-speed: 4 # Default 10
 start-delay: 2000 # Default 200
 delete-delay: 50000 # Default 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Protecting what you ❤️"
+  - text: "Welcome wonjin's blog ❤️"
 
 ########
 # Blog #
@@ -96,24 +96,9 @@ disqus-shortname: "panossakkos"
 ###############
 
 events:
-  - image: "/img/career/microsoft.png"
-    date: "September 2014 - September 2017"
-    description: "Software Engineer @ Microsoft Development Center Norway, working @ Office 365 backend services, focused on Security Engineering"
-  - image: "/img/career/microsoft.png"
-    date: "June 2013 - September 2013"
-    description: "Software Engineering Intern @ Microsoft Development Center Norway, worked @ <a href=\"https://www.businessinsider.com/microsoft-finally-rolls-out-delve-2014-9\">Delve</a>'s backend, the Office Graph"
-  - image: "/img/career/uoa.jpg"
-    date: "October 2012 - August 2014"
-    description: "Master studies @ <a href=\"http://www.di.uoa.gr/eng\" target=\"_blank\">Department of Informatics and Telecommunications</a> on Software Engineering + <a href=\"https://scholar.google.com/citations?user=UtV6LFYAAAAJ&amp;hl=en&amp;oi=ao\" target=\"_blank\">Machine Learning researcher</a> @ <a href=\"http://kddlab.di.uoa.gr\" target=\"_blank\">KDD</a> lab"
-  - image: "/img/career/cern.jpg"
-    date: "October 2011 - September 2012"
-    description: "Security researcher @ <a href=\"https://www.cern.ch\" target=\"_blank\">CERN</a>, developed linux kernel extensions to prevent cyber attacks"
-  - image: "/img/career/pwnmail.jpg"
-    date: "June 2010 - November 2010"
-    description: "Created <a href=\"https://www.google.com/search?q=pwn+mail\" target=\"_blank\">Pwn Mail</a>, a Cydia iPhone app for spoofing emails. It served &gt; 260,000 emails but it was discontinued after a legal threat by Steve Jobs"
-  - image: "/img/career/uoa.jpg"
-    date: "October 2007 - September 2011"
-    description: "Bachelor studies @ <a href=\"http://www.di.uoa.gr/eng\" target=\"_blank\">Department of Informatics and Telecommunications</a> on Computer Science and Telecomunications"
+  - image: "/img/career/cnu.jpg"
+    date: "March 2014 ~ "
+    description: "충남대학교 메카트로닉스학과 입학 @ <a href="\"http://www.cnu.ac.kr\" target=\"_blank\">CNU</a>
 
 # First image of the Career timeline
 timeline-img: "/img/career/default.jpg"
@@ -122,7 +107,7 @@ timeline-img: "/img/career/default.jpg"
 # Contact layout #
 ##################
 
-email: "panos.sakkos@gmail.com"
+email: "wonjinrun@gmail.com"
 
 pgp: "https://gist.github.com/le4ker/c1bdd195454e6fc1751a"
 
@@ -144,12 +129,6 @@ author_blurb_image: "/img/me.jpg"
 social:
   - title: "github"
     url: "https://github.com/wonjinjeong"
-  - title: "linkedin"
-    url: "https://linkedin.com/in/PanosSakkos"
-  - title: "twitter"
-    url: "https://twitter.com"
-  - title: "rss"
-    url: "/feed.xml"
  
 ############
 # 404 page #
