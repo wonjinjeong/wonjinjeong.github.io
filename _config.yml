@@ -122,8 +122,8 @@ pgp: "https://gist.github.com/le4ker/c1bdd195454e6fc1751a"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Panos is on a mission to protect what you ❤️ by delivering secure products that respect the privacy of their users. In the past he did research in Computer Security, Machine Learning and he was a Software Engineer for Office 365, focused on Security Engineering."
-author_blurb_image: "/img/me.jpg"
+author_blurb: "github를 이용해 만들 블로그입니다. 제 사적인 공부내용과 오픈소스 그리고 코딩을 주로 다룰 것입니다."
+author_blurb_image: "/img/labtocat.png"
 
 ##################
 # Social Buttons #
