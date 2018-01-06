@@ -157,7 +157,7 @@ fofimg: "/img/labtocat.png"
 
 # Pagination path
 paginate_path: "blog/page:num"
-``
+
 # Enable minification SASS
 sass:
   style: compressed
