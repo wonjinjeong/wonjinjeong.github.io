@@ -99,6 +99,9 @@ events:
   - image: "/img/career/cnu.jpg"
     date: "March 2014 ~ "
     description: "충남대학교 메카트로닉스학과 입학"
+    - image: "/img/career/C.O.ME.png"
+    date: "April 2014 ~ "
+    description: "Challenge of mechatronics!!"
 
 # First image of the Career timeline
 timeline-img: "/img/career/default.jpg"
