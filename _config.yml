@@ -101,7 +101,7 @@ events:
     description: "충남대학교 메카트로닉스학과 입학"
   - image: "/img/career/COME.png"
     date: "April 2014 ~ "
-    description: "Challenge of mechatronics!!"
+    description: "Challenge of mechatronics!!(로봇을 만드는 동아리입니다.)"
 
 # First image of the Career timeline
 timeline-img: "/img/career/default.jpg"
@@ -122,7 +122,7 @@ pgp: "https://gist.github.com/le4ker/c1bdd195454e6fc1751a"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "github를 이용해 만들 블로그입니다. 제 사적인 공부내용과 오픈소스 그리고 코딩을 주로 다룰 것입니다."
+author_blurb: "github를 이용해 만든 블로그입니다. <br>제 사적인 공부내용과 오픈소스 그리고 코딩을 주로 다룰 것입니다."</br>
 author_blurb_image: "/img/labtocat.png"
 
 ##################
