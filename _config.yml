@@ -144,6 +144,12 @@ author_blurb_image: "/img/me.jpg"
 social:
   - title: "github"
     url: "https://github.com/wonjinjeong"
+  - title: "linkedin"
+    url: "https://linkedin.com/in/PanosSakkos"
+  - title: "twitter"
+    url: "https://twitter.com"
+  - title: "rss"
+    url: "/feed.xml"
  
 ############
 # 404 page #
