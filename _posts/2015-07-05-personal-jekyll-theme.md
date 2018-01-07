@@ -4,6 +4,7 @@ section-type: post
 title: "{ Personal } Jekyll Theme"
 category: tech
 tags: [ 'jekyll', 'opensource' ]
+published: false
 ---
 As I [wrote](https://panossakkos.github.io/tech/2015/06/27/blogging-like-a-hacker.html) before,
 I wanted to open-source the current theme because I believe that it adds value to the existing Jekyll themes.

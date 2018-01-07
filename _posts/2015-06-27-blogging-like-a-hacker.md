@@ -4,6 +4,7 @@ section-type: post
 title: Blogging Like a Hacker
 category: tech
 tags: [ 'jekyll' ]
+published: false
 ---
 I don't remember exactly how many blogs I created the past years, but this one feels like the one.
 I had one blog on Tumblr and three or four on Wordpress.

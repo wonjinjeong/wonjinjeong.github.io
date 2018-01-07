@@ -4,6 +4,7 @@ section-type: post
 title: Forging signatures with length extension attacks
 category: tech
 tags: [ 'crypto', 'redteam' ]
+published: false
 ---
 Digital signatures are used in the digital world in order to prove the authenticity and integrity of a message.
 In other words it's the way to prove that you sent a piece of data and that the data was not tampered.

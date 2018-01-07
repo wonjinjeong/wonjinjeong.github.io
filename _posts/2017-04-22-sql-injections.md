@@ -4,6 +4,7 @@ section-type: post
 title: Stealing passwords with SQL Injections
 category: tech
 tags: [ 'redteam', 'kali', 'dvwa' ]
+published: false
 ---
 In this post we'll use [DVWA]({% post_url 2017-04-02-dvwa-kali %}) as usually, in order to access its user passwords using SQL injections.
 SQL injections are similar to [XSS]({% post_url 2017-04-15-dvwa-xss %}) and [command injection]({% post_url 2017-04-18-command-injection %}) attacks, in the way that user input is not sanitized and it ends up manipulating the vulnerable application.

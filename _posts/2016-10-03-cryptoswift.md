@@ -4,6 +4,7 @@ section-type: post
 title: Don't use CryptoSwift
 category: tech
 tags: [ 'crypto', 'opensource' ]
+published: false
 ---
 
 [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift)

@@ -4,6 +4,7 @@ section-type: post
 title: Bit-flipping attack on CBC block cipher mode 🗡
 category: tech
 tags: [ 'crypto', 'redteam' ]
+published: false
 ---
 
 Continuing in the theme of attacking crypto primitives, today we'll see how

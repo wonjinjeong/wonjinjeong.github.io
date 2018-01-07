@@ -4,6 +4,7 @@ section-type: post
 title: Prisma owns your photos
 category: tech
 tags: [ 'privacy' ]
+published: false
 ---
 Prisma is an app that applies filters on photos that got a lot of hype recently <small>(my profile picture actually was made with the app)</small>.
 When I visited the app's [website](http://prisma-ai.com/) I noticed that they were stating that the filter

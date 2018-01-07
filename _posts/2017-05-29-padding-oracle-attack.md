@@ -4,6 +4,7 @@ section-type: post
 title: Recovering plaintexts with Padding Oracle Attacks 🔮
 category: tech
 tags: [ 'crypto', 'redteam' ]
+published: false
 ---
 [Last time]({% post_url 2017-05-21-length-extention-attack %}) we saw how to forge a valid signature by intercepting
 a signed message, its authentic signature and the length of the key that was used to sign it.
