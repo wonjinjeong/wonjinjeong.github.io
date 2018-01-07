@@ -101,7 +101,7 @@ events:
     description: "충남대학교 메카트로닉스학과 입학"
   - image: "/img/career/COME.png"
     date: "April 2014 ~ "
-    description: "Challenge of mechatronics!!(로봇을 만드는 동아리입니다.)"
+    description: "Challenge of mechatronics!!(로봇동아리입니다.)"
 
 # First image of the Career timeline
 timeline-img: "/img/career/default.jpg"
