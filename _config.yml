@@ -5,10 +5,7 @@ url: "https://wonjinjeong.github.io"
 
 environment: prod
 
-baseurl: ""
-force-https: True
-
-syntax-highlight: True
+baseurl: "/"
 
 highlighter: rouge
 
