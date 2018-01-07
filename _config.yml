@@ -1,14 +1,3 @@
-
-# Site settings
-
-url: "https://wonjinjeong.github.io"
-
-environment: prod
-
-baseurl: ""
-
-highlighter: rouge
-
 # Sections shown in the index page
 
 pages_list:
