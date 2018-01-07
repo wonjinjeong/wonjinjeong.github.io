@@ -123,7 +123,7 @@ pgp: "https://gist.github.com/le4ker/c1bdd195454e6fc1751a"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "github를 이용해 만든 블로그입니다. <br>제 사적인 공부내용과 오픈소스 그리고 코딩을 주로 다룰 것입니다."</br>
-author_blurb_image: "/img/labtocat.png"
+author_blurb_image: "/img/me.jpg"
 
 ##################
 # Social Buttons #
