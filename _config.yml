@@ -144,7 +144,7 @@ fofimg: "/img/labtocat.png"
 # Tread carefully if you want to change the variables bellow this point!
 
 # Pagination path
-paginate_path: "blog/page:num"
+paginate_path: "/page:num"
 
 # Enable minification SASS
 sass:
