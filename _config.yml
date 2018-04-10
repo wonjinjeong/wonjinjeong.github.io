@@ -72,11 +72,11 @@ lines: # You can add HTML Tags in the Text
 # Blog #
 ########
 
-enable-gesture-navigation: False
+enable-gesture-navigation: true
 
 post-preview-words: 96
 
-paginate: 4
+paginate: 10
 
 email-share: True
 fb-share: True
@@ -144,7 +144,7 @@ fofimg: "/img/labtocat.png"
 # Tread carefully if you want to change the variables bellow this point!
 
 # Pagination path
-paginate_path: "/page:num"
+paginate_path: "blog/page:num"
 
 # Enable minification SASS
 sass:
