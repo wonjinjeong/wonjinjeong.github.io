@@ -17,15 +17,15 @@
            
                     {% include swipe-instructions.html %}
             
-                    {{ page.content | markdownify }}
+                     {{ page.content | markdownify }}
             
-                    <div>
-                      {% for post in paginator.posts %}
-                        {% include post-list.html%}
-                      {% endfor %}
-                    </div>
+                      <div>
+                        {% for post in paginator.posts %}
+                          {% include post-list.html%}
+                        {% endfor %}
+                      </div>
             
-                    {% include pagination.html %}
+                     {% include pagination.html %}
             
                    </div>
              </div>
