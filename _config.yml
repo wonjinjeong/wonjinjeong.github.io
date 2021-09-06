@@ -101,7 +101,8 @@ events:
     description: "충남대학교 메카트로닉스학과 입학"
   - image: "/img/career/COME.png"
     date: "April 2014 ~ "
-    description: "Challenge of mechatronics.\n(로봇동아리 활동.)"
+    description: "Challenge of mechatronics.
+    (로봇동아리 활동.)"
   - image: "/img/career/emsl.PNG"
     date: "March 2020 ~ "
     description: "충남대학교 메카트로닉스학과 석사입학(기전시스템실험실)"
