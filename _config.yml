@@ -98,10 +98,13 @@ disqus-shortname: "panossakkos"
 events:
   - image: "/img/career/cnu.jpg"
     date: "March 2014 ~ "
-    description: "충남대학교 메카트로닉스학과 입학함"
+    description: "충남대학교 메카트로닉스학과 입학"
   - image: "/img/career/COME.png"
     date: "April 2014 ~ "
     description: "Challenge of mechatronics!!(로봇동아리 활동.)"
+  - image: "/img/emsl/emsl_picture.jpg"
+    date: "March 2020 ~ "
+    description: "충남대학교 메카트로닉스학과 석사입학"
 
 # First image of the Career timeline
 timeline-img: "/img/career/default.jpg"
